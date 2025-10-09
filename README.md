@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I am Vision Gaihre an aspiring data engineer, I am a 2025 graduate in Computer Science and Engineering from VTU university. I've experience with SQL, python libraries like numpy, matplotlib, seaborn and so on, I've made few projects and will keep working on them in the ever coming future, I want to achieve my dream of becoming an data Engineer for a reputable company so trying my hardest to improve myself. Hope you like the few projects I've done, Thanks for your time and patience.
+Hey, I am Vision Gaihre an aspiring data engineer, I am a 2025 graduate in Computer Science and Engineering from VTU university. I've experience with SQL, python libraries like numpy, matplotlib, seaborn and so on, I've made few projects and will keep working on them in the ever coming future, I want to achieve my dream of becoming a data Engineer for a reputable company so trying my hardest to improve myself. Hope you like the few projects I've done, Thanks for your time and patience.
 
 
 ## 🌐 Socials:
